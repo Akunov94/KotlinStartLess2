@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KotlinStartLess2</string>
+    <string name="btn_random">Btn_Random</string>
+</resources>
